@@ -1,0 +1,2 @@
+[06-Jan-2018 02:22:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/abhidemo/public_html/demo/city/app_dashboard/add-place.php:5) in /home1/abhidemo/public_html/demo/city/app_dashboard/add-place.php on line 339
+[08-Jan-2018 01:41:33 America/Chicago] PHP Warning:  unlink(NULL): No such file or directory in /home1/abhidemo/public_html/demo/city/app_dashboard/updateimage.php on line 159

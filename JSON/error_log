@@ -1,0 +1,76 @@
+[07-Dec-2017 02:00:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home1/abhidemo/public_html/demo/city/JSON/pushadd.php on line 8
+[07-Dec-2017 02:00:45 America/Chicago] PHP Fatal error:  Call to undefined function vardump() in /home1/abhidemo/public_html/demo/city/JSON/pushadd.php on line 10
+[09-Dec-2017 04:43:37 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 22
+[09-Dec-2017 04:44:03 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 21
+[09-Dec-2017 04:45:28 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 48
+[09-Dec-2017 04:48:01 America/Chicago] PHP Warning:  array_filter() expects parameter 2 to be a valid callback, function 'NULL' not found or invalid function name in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 24
+[09-Dec-2017 04:50:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'image3' (T_STRING) in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 24
+[09-Dec-2017 04:50:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 24
+[09-Dec-2017 04:56:59 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 26
+[09-Dec-2017 04:56:59 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 26
+[09-Dec-2017 04:56:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 35
+[09-Dec-2017 04:57:43 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 26
+[09-Dec-2017 04:57:43 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 26
+[09-Dec-2017 04:57:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 37
+[09-Dec-2017 04:57:58 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 26
+[09-Dec-2017 04:57:58 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 26
+[09-Dec-2017 05:03:07 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 26
+[09-Dec-2017 05:04:30 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 26
+[09-Dec-2017 05:04:41 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 26
+[09-Dec-2017 05:05:41 America/Chicago] PHP Warning:  filter_var_array(): Numeric keys are not allowed in the definition array in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 28
+[09-Dec-2017 05:05:41 America/Chicago] PHP Warning:  filter_var_array() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 28
+[09-Dec-2017 05:05:41 America/Chicago] PHP Warning:  filter_var_array() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 28
+[09-Dec-2017 05:06:50 America/Chicago] PHP Warning:  filter_var_array() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 28
+[09-Dec-2017 05:06:50 America/Chicago] PHP Warning:  filter_var_array() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 28
+[09-Dec-2017 05:07:33 America/Chicago] PHP Warning:  filter_var_array() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 39
+[09-Dec-2017 05:08:01 America/Chicago] PHP Warning:  filter_var_array() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 31
+[09-Dec-2017 05:08:01 America/Chicago] PHP Warning:  filter_var_array() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 31
+[09-Dec-2017 05:08:51 America/Chicago] PHP Warning:  filter_var_array() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 31
+[09-Dec-2017 05:08:51 America/Chicago] PHP Warning:  filter_var_array() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 31
+[09-Dec-2017 05:10:17 America/Chicago] PHP Warning:  filter_var_array() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 31
+[09-Dec-2017 05:10:17 America/Chicago] PHP Warning:  filter_var_array() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 31
+[09-Dec-2017 05:10:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 60
+[09-Dec-2017 05:15:55 America/Chicago] PHP Warning:  stripos() expects parameter 1 to be string, array given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 27
+[09-Dec-2017 05:15:55 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 27
+[09-Dec-2017 05:15:55 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 27
+[09-Dec-2017 05:22:32 America/Chicago] PHP Warning:  stripos() expects parameter 1 to be string, array given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 27
+[09-Dec-2017 05:22:32 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 27
+[09-Dec-2017 05:22:32 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 27
+[09-Dec-2017 05:24:24 America/Chicago] PHP Warning:  stripos() expects parameter 1 to be string, array given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 45
+[09-Dec-2017 05:24:24 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 27
+[09-Dec-2017 05:24:24 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 27
+[09-Dec-2017 05:24:52 America/Chicago] PHP Parse error:  syntax error, unexpected ''], '' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 45
+[09-Dec-2017 05:25:00 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 27
+[09-Dec-2017 05:25:00 America/Chicago] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 27
+[09-Dec-2017 05:27:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 25
+[09-Dec-2017 05:28:07 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 24
+[09-Dec-2017 05:28:19 America/Chicago] PHP Warning:  stripos() expects parameter 1 to be string, array given in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 24
+[09-Dec-2017 05:29:19 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home1/abhidemo/public_html/demo/city/JSON/bakplace.php on line 24
+[14-Dec-2017 03:47:42 America/Chicago] PHP Warning:  include_once(/home1/abhidemo/public_html/demo/city/JSON/Config.php): failed to open stream: No such file or directory in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 19
+[14-Dec-2017 03:47:42 America/Chicago] PHP Warning:  include_once(): Failed opening '/home1/abhidemo/public_html/demo/city/JSON/Config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 19
+[14-Dec-2017 03:47:42 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 22
+[14-Dec-2017 03:47:42 America/Chicago] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 34
+[14-Dec-2017 03:47:42 America/Chicago] PHP Fatal error:  Call to a member function execute() on a non-object in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 35
+[14-Dec-2017 03:47:42 America/Chicago] PHP Warning:  include_once(/home1/abhidemo/public_html/demo/city/JSON/Config.php): failed to open stream: No such file or directory in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 19
+[14-Dec-2017 03:47:42 America/Chicago] PHP Warning:  include_once(): Failed opening '/home1/abhidemo/public_html/demo/city/JSON/Config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 19
+[14-Dec-2017 03:47:42 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 22
+[14-Dec-2017 03:47:42 America/Chicago] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 34
+[14-Dec-2017 03:47:42 America/Chicago] PHP Fatal error:  Call to a member function execute() on a non-object in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 35
+[14-Dec-2017 03:48:12 America/Chicago] PHP Warning:  include_once(/home1/abhidemo/public_html/demo/city/JSON/Config.php): failed to open stream: No such file or directory in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 19
+[14-Dec-2017 03:48:12 America/Chicago] PHP Warning:  include_once(): Failed opening '/home1/abhidemo/public_html/demo/city/JSON/Config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 19
+[14-Dec-2017 03:48:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 22
+[14-Dec-2017 03:48:12 America/Chicago] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 34
+[14-Dec-2017 03:48:12 America/Chicago] PHP Fatal error:  Call to a member function execute() on a non-object in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 35
+[14-Dec-2017 03:48:37 America/Chicago] PHP Warning:  include_once(/home1/abhidemo/public_html/demo/city/JSON/Config.php): failed to open stream: No such file or directory in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 19
+[14-Dec-2017 03:48:37 America/Chicago] PHP Warning:  include_once(): Failed opening '/home1/abhidemo/public_html/demo/city/JSON/Config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 19
+[14-Dec-2017 03:48:37 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 22
+[14-Dec-2017 03:48:37 America/Chicago] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 34
+[14-Dec-2017 03:48:37 America/Chicago] PHP Fatal error:  Call to a member function execute() on a non-object in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 35
+[14-Dec-2017 03:49:11 America/Chicago] PHP Parse error:  syntax error, unexpected '';' (T_ENCAPSED_AND_WHITESPACE) in /home1/abhidemo/public_html/demo/city/JSON/DbConnect.php on line 19
+[14-Dec-2017 03:49:24 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 36
+[14-Dec-2017 03:50:44 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 36
+[14-Dec-2017 03:51:52 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 36
+[14-Dec-2017 03:53:02 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/abhidemo/public_html/demo/city/JSON/DbOperation.php on line 36
+[14-Dec-2017 03:54:01 America/Chicago] PHP Fatal error:  Call to undefined method DbOperation::getAllDevices() in /home1/abhidemo/public_html/demo/city/JSON/getdevices.php on line 7
+[14-Dec-2017 03:54:21 America/Chicago] PHP Fatal error:  Call to undefined method DbOperation::getAllDevices() in /home1/abhidemo/public_html/demo/city/JSON/getdevices.php on line 7
+[28-Dec-2017 02:28:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/abhidemo/public_html/demo/city/JSON/placenew.php on line 7
